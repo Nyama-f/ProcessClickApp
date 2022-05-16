@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProcessClickApp</string>
+    <string name="counter">Добавить</string>
 </resources>
